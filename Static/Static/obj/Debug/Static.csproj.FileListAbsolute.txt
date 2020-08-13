@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Static\Static\obj\Debug\Static.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Static\Static\bin\Debug\Static.exe.config
+C:\Users\user\source\repos\Static\Static\bin\Debug\Static.exe
+C:\Users\user\source\repos\Static\Static\bin\Debug\Static.pdb
+C:\Users\user\source\repos\Static\Static\obj\Debug\Static.exe
+C:\Users\user\source\repos\Static\Static\obj\Debug\Static.pdb
