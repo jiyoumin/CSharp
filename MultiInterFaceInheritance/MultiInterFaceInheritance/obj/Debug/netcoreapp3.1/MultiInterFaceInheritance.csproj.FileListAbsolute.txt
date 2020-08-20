@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.exe
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.deps.json
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.runtimeconfig.json
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.runtimeconfig.dev.json
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.dll
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\bin\Debug\netcoreapp3.1\MultiInterFaceInheritance.pdb
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.AssemblyInfo.cs
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.dll
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.pdb
+C:\Users\USER\source\repos\MultiInterFaceInheritance\MultiInterFaceInheritance\obj\Debug\netcoreapp3.1\MultiInterFaceInheritance.genruntimeconfig.cache
