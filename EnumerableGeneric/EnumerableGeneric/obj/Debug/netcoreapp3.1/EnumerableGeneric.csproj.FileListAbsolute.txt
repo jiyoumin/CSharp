@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.exe
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.deps.json
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.runtimeconfig.json
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.dll
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\bin\Debug\netcoreapp3.1\EnumerableGeneric.pdb
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.AssemblyInfo.cs
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.dll
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.pdb
+C:\Users\USER\source\repos\EnumerableGeneric\EnumerableGeneric\obj\Debug\netcoreapp3.1\EnumerableGeneric.genruntimeconfig.cache
