@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.exe
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.deps.json
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.runtimeconfig.json
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.runtimeconfig.dev.json
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.dll
+C:\Users\USER\source\repos\BasicThred\BasicThred\bin\Debug\netcoreapp3.1\BasicThred.pdb
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.AssemblyInfo.cs
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.dll
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.pdb
+C:\Users\USER\source\repos\BasicThred\BasicThred\obj\Debug\netcoreapp3.1\BasicThred.genruntimeconfig.cache
