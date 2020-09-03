@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.exe
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.deps.json
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.runtimeconfig.json
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.runtimeconfig.dev.json
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.dll
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\bin\Debug\netcoreapp3.1\UsingQueue.pdb
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.AssemblyInfo.cs
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.dll
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.pdb
+C:\Users\USER\source\repos\UsingQueue\UsingQueue\obj\Debug\netcoreapp3.1\UsingQueue.genruntimeconfig.cache
