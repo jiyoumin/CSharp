@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.AssemblyInfo.cs
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.exe
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.deps.json
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.runtimeconfig.json
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.runtimeconfig.dev.json
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.dll
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\bin\Debug\netcoreapp3.1\InitializingArray.pdb
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.dll
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.pdb
+C:\Users\USER\source\repos\InitializingArray\InitializingArray\obj\Debug\netcoreapp3.1\InitializingArray.genruntimeconfig.cache
