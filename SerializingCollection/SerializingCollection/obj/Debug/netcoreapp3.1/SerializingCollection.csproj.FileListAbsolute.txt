@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.exe
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.deps.json
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.runtimeconfig.json
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.dll
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\bin\Debug\netcoreapp3.1\SerializingCollection.pdb
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.AssemblyInfo.cs
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.dll
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.pdb
+C:\Users\USER\source\repos\SerializingCollection\SerializingCollection\obj\Debug\netcoreapp3.1\SerializingCollection.genruntimeconfig.cache
