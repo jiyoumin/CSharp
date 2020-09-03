@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.exe
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.deps.json
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.runtimeconfig.json
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.runtimeconfig.dev.json
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.dll
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\bin\Debug\netcoreapp3.1\JaggeArray.pdb
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.AssemblyInfo.cs
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.dll
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.pdb
+C:\Users\USER\source\repos\JaggeArray\JaggeArray\obj\Debug\netcoreapp3.1\JaggeArray.genruntimeconfig.cache
