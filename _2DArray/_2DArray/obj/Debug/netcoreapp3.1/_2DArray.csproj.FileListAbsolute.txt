@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.exe
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.deps.json
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.runtimeconfig.json
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.runtimeconfig.dev.json
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.dll
+C:\Users\USER\source\repos\_2DArray\_2DArray\bin\Debug\netcoreapp3.1\_2DArray.pdb
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.AssemblyInfo.cs
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.dll
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.pdb
+C:\Users\USER\source\repos\_2DArray\_2DArray\obj\Debug\netcoreapp3.1\_2DArray.genruntimeconfig.cache
