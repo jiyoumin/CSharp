@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.exe
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.deps.json
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.runtimeconfig.json
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.runtimeconfig.dev.json
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.dll
+C:\Users\USER\source\repos\BasicIO\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.pdb
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.AssemblyInfo.cs
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.dll
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.pdb
+C:\Users\USER\source\repos\BasicIO\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.genruntimeconfig.cache
