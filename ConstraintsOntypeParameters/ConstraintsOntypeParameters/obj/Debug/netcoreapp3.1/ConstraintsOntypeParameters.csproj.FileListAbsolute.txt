@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\ConstraintsOntypeParameters\ConstraintsOntypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOntypeParameters.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConstraintsOntypeParameters\ConstraintsOntypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOntypeParameters.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConstraintsOntypeParameters\ConstraintsOntypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOntypeParameters.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConstraintsOntypeParameters\ConstraintsOntypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOntypeParameters.csproj.CoreCompileInputs.cache
