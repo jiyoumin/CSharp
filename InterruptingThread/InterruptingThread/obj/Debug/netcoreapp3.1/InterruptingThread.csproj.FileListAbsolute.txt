@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.AssemblyInfo.cs
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.exe
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.deps.json
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.runtimeconfig.json
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.runtimeconfig.dev.json
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.dll
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\bin\Debug\netcoreapp3.1\InterruptingThread.pdb
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.dll
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.pdb
+C:\Users\USER\source\repos\InterruptingThread\InterruptingThread\obj\Debug\netcoreapp3.1\InterruptingThread.genruntimeconfig.cache
