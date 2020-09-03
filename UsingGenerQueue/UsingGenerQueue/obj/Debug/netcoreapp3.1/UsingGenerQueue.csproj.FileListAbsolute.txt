@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.exe
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.deps.json
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.runtimeconfig.json
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.runtimeconfig.dev.json
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.dll
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\bin\Debug\netcoreapp3.1\UsingGenerQueue.pdb
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.AssemblyInfo.cs
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.dll
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.pdb
+C:\Users\USER\source\repos\UsingGenerQueue\UsingGenerQueue\obj\Debug\netcoreapp3.1\UsingGenerQueue.genruntimeconfig.cache
