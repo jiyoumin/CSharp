@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.Mainform.resources
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.Properties.Resources.resources
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UsingControns\UsingControns\bin\Debug\UsingControns.exe.config
+C:\Users\user\source\repos\UsingControns\UsingControns\bin\Debug\UsingControns.exe
+C:\Users\user\source\repos\UsingControns\UsingControns\bin\Debug\UsingControns.pdb
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.exe
+C:\Users\user\source\repos\UsingControns\UsingControns\obj\Debug\UsingControns.pdb
